@@ -1,4 +1,4 @@
-### Olá! me chamo Karol e sejam bem vindos ao meu Github👋
+### Olá! me chamo Karol, e sejam bem vindos ao meu Github👋
 
 Estou atualmente em trasição de carreira para desenvolvimento Front-end e  também estudo análise de dados.
 
