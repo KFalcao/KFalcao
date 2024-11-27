@@ -2,7 +2,7 @@
 
 Estou atualmente em trasição de carreira para desenvolvimento Front-end e  também estudo análise de dados.
 
-Estou fazendo o curso de front-end Vai na Web.
+Estou fazendo o curso de FullStack no Vai na Web.
 
 E cursando ciência da computação na Faculdade Descomplica.
 
