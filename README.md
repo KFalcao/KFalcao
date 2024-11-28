@@ -1,34 +1,62 @@
-### Olá! me chamo Karol, e sejam bem vindos ao meu Github👋
+<h2 align="center">🎇Olá, me chamo Karol!🎇 Seja bem vindo(a) ao meu Github!</h2>
 
-Estou atualmente em trasição de carreira para desenvolvimento Front-end e  também estudo análise de dados.
+###
 
-Estou fazendo o curso de FullStack no Vai na Web.
+<h3 align="left">🙋🏻‍♀️ Sobre mim</h3>
 
-E cursando ciência da computação na Faculdade Descomplica.
+###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KFalcao&theme=radical&show_icons=true)
+<p align="left">Sou estudante de Ciência da Computação e tenho paixão por programação e tecnologia. Estou em transição de carreira com foco no desenvolvimento Front-end.</p>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=kfalcao&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<h3 align="left">🎯Foco Atual:</h3>
 
+###
 
-<!--
-**KFalcao/KFalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">💻Formação FullStack Vai na Web  – Utilizando Html, CSS, Sass, JavaScript, React, Python.<br><br>👩‍💻Programmer Girl (Projeto 01ProGirl) –  Aplicando TypeScript, React, Tailwind, Next.js.<br><br>🤘🏻 Formação OneBitCode – Aprendendo e me apronfundando em Html, CSS,  JavaScript, TypeScript, Sass, React, Next.js, SQL e Node.js.</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🛠 Linguagens e ferramentas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  
+</div>
+
+###
+
+<h3 align="left">👉🏻Meu Linkedin :</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dkarollinefalcao/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+<h3 align="left">🔥Status:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KFalcao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
