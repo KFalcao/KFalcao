@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou estudante de Ciência da Computação e tenho paixão por programação e tecnologia. Estou em transição de carreira com foco no desenvolvimento Front-end.</p>
+<p align="left">Sou estudante de Ciência da Computação e tenho paixão por programação e tecnologia. Estou me formando em FullStack com foco no desenvolvimento Front-end.</p>
 
 ###
 
