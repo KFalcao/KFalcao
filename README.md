@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💻Formação FullStack Vai na Web  – Utilizando Html, CSS, Sass, JavaScript, React, Python.<br><br>👩‍💻Programmer Girl (Projeto 01ProGirl) –  Aplicando TypeScript, React, Tailwind, Next.js.<br><br>🤘🏻 Formação OneBitCode – Aprendendo e me apronfundando em Html, CSS,  JavaScript, TypeScript, Sass, React, Next.js, SQL e Node.js.</p>
+<p align="left">💻Formação FullStack Vai na Web  – Utilizando Html, CSS, Sass, JavaScript, React, Python.<br><br>👩‍💻Programmer Girl –  Aplicando TypeScript, React, Tailwind, Next.Js, Node.Js, MongoDB.<br><br>🤘🏻 Formação OneBitCode – Aprendendo e me apronfundando em Html, CSS,  JavaScript, TypeScript, Sass, React, Next.Js, SQL e Node.Js.</p>
 
 ###
 
